@@ -48,3 +48,24 @@ conditions of a greenhouse presented to “INIFAP” directors.
 ● JavaScript:         `https://www.sololearn.com/certificates/CT-SX9F7IJ1`
 
 [//]: # (A problem-solver with excellent communication and teamwork skills.)
+
+## Skills:
+
+<div align="center">  
+  
+[![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](HTML) 
+[![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](CSS) 
+  [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](Bootstrap) 
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](JS) 
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![](https://img.shields.io/badge/NodeJS-54B435?style=for-the-badge&logo=nodejs&logoColor=white)](NodeJS) 
+[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Python) 
+[![](https://img.shields.io/badge/Java-563D7C?style=for-the-badge&logo=java&logoColor=white)](Java) 
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](MYSQL) 
+[![](https://img.shields.io/badge/PostgreSQL-3E6D9C?style=for-the-badge&logo=postgresql&logoColor=white)](PostgreSQL)
+[![](https://img.shields.io/badge/MongoBD-54B435?style=for-the-badge&logo=mongodb&logoColor=white)](MongoDB) 
+[![](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](Linux)
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](Windows)
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+</div>
