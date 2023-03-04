@@ -4,7 +4,7 @@ Email: `b.davidfp@gmail.com`
 
 skilled and experienced with a strong background in building responsive, user friendly websites and
 applications. Proficient in a variety of programming languages and technologies, including ` HTML5,
-CSS3, JavaScript, Java, GitHub, Git and Python. `
+CSS3, JavaScript, Git, GitHub, SQL, Java and Python. `
 ## Experience
 November 2022 - Currently
 Front End Developer
