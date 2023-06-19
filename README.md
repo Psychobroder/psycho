@@ -11,7 +11,7 @@ Front End Developer
 
 - I’m building a website for the company Megablock where I currently work, using HTML,
 CSS and JavaScript.
-- ✨See the Magic ✨ URL: https://psychobroder.github.io/megablock/ (on hold due to workload)
+- ✨See the Magic ✨ URL: https://psychobroder.github.io/megablock/
 
 May - August 2016
 
